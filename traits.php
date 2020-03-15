@@ -14,4 +14,5 @@ Class A {
 $call = new A; 
 echo $call -> name(); 
 
+// HELLOW
 ?>
